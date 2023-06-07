@@ -201,7 +201,7 @@ func main() {
 
 	telainput( cabec , &nota )
 
-	// treixo para debug
+	// trecho para debug
 	// fmt.Println("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
 	// fmt.Println("cabec from telainput ", cabec)
 	// fmt.Println("nota  from telainput ", nota)
