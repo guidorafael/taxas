@@ -36,3 +36,5 @@ Fees and taxes represent debits ("-" sign)
 Sale of assets represents credit ("+" sign).
 Although they do not appear here, remember:
 dividends and earnings represent credits ("+" sign).
+
+Cloned on the DELL portable computer 2013 06 23
